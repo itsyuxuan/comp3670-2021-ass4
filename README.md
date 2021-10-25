@@ -1,2 +1,2 @@
-# comp3670-2021-ass4
+# Matrix Decomposition & Dimensionality Reduction
 ANU COMP3670 : Introduction to Machine Learning - Assignment 4
